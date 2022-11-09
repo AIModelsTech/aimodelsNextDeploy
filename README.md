@@ -1,2 +1,1 @@
-# aimodels.ca
-AIModels public website
+# Website
